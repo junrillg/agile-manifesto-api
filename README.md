@@ -1,4 +1,4 @@
-# Agile Manifest API
+# Agile Manifesto API
 > Uses FastAPI and SQLAlchemy
 #### Requirements
 - [SQLite](https://www.sqlite.org/index.html)
