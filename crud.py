@@ -1,3 +1,4 @@
+# type: ignore
 from sqlalchemy.orm import Session
 from models import Principle, Value
 from schemas import DataRequest
