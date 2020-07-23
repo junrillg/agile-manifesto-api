@@ -1,4 +1,3 @@
-# type: ignore
 import pytest
 from fastapi.testclient import TestClient
 from .test_setup import app, refresh_db

@@ -1,4 +1,3 @@
-# type: ignore
 import models
 import crud
 from fastapi import FastAPI, Depends, HTTPException
