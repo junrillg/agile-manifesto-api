@@ -1,0 +1,4 @@
+echo "Running Black Formatting"
+black .
+echo "Running Flake8 Linting"
+flake8 .
